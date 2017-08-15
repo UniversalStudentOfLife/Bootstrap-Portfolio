@@ -6,8 +6,14 @@
 	color: white;
 }
 
+/*Body CSS*/
+
+body {
+	background-image: url("../images/concrete_seamless.png");
+}
+
 /*About me CSS*/
-.connectimages {
+.connectimage {
 
 	height: 50px;
 	width: 50px;
