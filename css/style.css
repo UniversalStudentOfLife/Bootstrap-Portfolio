@@ -1,6 +1,16 @@
+
+/*Navigation bar CSS*/
+
+.navlink {
+
+	color: white;
+}
+
+/*About me CSS*/
 .connectimages {
 
 	height: 50px;
 	width: 50px;
 	padding-left: 5px;
 }
+
